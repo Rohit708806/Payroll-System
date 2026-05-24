@@ -79,7 +79,7 @@ Open **http://localhost:5000**
 
 | Role | Email | Password |
 |------|-------|----------|
-| Super Admin | admin@payroll.com | Admin@123 |
+| Super Admin | rohitkashyap2418@gmail.com | Rohit@7088 |
 | HR | sarah.j@acme.com | Employee@123 |
 | Manager | james.c@acme.com | Employee@123 |
 | Employee | emily.d@acme.com | Employee@123 |
